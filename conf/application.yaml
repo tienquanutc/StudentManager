@@ -1,0 +1,14 @@
+---
+mode: "txt"
+text.config:
+  student: "/home/quannt/Desktop/lazy_sql/src/main/resources/thisinh.txt"
+  city: "/home/quannt/Desktop/lazy_sql/src/main/resources/quequan.txt"
+xml.config:
+  student: "/home/quannt/Desktop/lazy_sql/src/main/resources/thisinh.xml"
+  city: "/home/quannt/Desktop/lazy_sql/src/main/resources/quequan.xml"
+sql.config:
+  host: "localhost"
+  port: 1401
+  dbname: "StudentManagement"
+  user: "sa"
+  password: "VuYen2503"

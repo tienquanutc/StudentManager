@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<danhsach>
+  <thisinh>
+    <mathisinh>10001</mathisinh>
+    <ten>Nguyen Trong Phuc</ten>
+    <matinh>1</matinh>
+    <ngaysinh>02/10/1976</ngaysinh>
+    <gioitinh>false</gioitinh>
+    <toan>7.0</toan>
+    <ly>5.0</ly>
+    <hoa>6.0</hoa>
+  </thisinh>
+  <thisinh>
+    <mathisinh>10007</mathisinh>
+    <ten>Nguyen Trong Phuc</ten>
+    <matinh>1</matinh>
+    <ngaysinh>02/10/1976</ngaysinh>
+    <gioitinh>true</gioitinh>
+    <toan>7.0</toan>
+    <ly>5.0</ly>
+    <hoa>6.0</hoa>
+  </thisinh>
+  <thisinh>
+    <mathisinh>10008</mathisinh>
+    <ten>Nguyen Trong Phuc</ten>
+    <matinh>1</matinh>
+    <ngaysinh>02/10/1976</ngaysinh>
+    <gioitinh>true</gioitinh>
+    <toan>7.0</toan>
+    <ly>5.0</ly>
+    <hoa>6.0</hoa>
+  </thisinh>
+  <thisinh>
+    <mathisinh>10009</mathisinh>
+    <ten>Nguyen Tien Quan</ten>
+    <matinh>2</matinh>
+    <ngaysinh>02/10/1976</ngaysinh>
+    <gioitinh>true</gioitinh>
+    <toan>7.0</toan>
+    <ly>5.0</ly>
+    <hoa>6.0</hoa>
+  </thisinh>
+</danhsach>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<danhsach>
+  <quequan>
+    <matinh>1</matinh>
+    <tentinh>Hà Nội</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>2</matinh>
+    <tentinh>Hồ Chí Minh</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>3</matinh>
+    <tentinh>An Giang</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>4</matinh>
+    <tentinh>Bà Rịa - Vũng Tàu</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>5</matinh>
+    <tentinh>Bạc Liêu</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>6</matinh>
+    <tentinh>Bắc Giang</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>7</matinh>
+    <tentinh>Bắc Kạn</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>8</matinh>
+    <tentinh>Bắc Ninh</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>9</matinh>
+    <tentinh>Bến Tre</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>10</matinh>
+    <tentinh>Bình Dương</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>11</matinh>
+    <tentinh>Bình Định</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>12</matinh>
+    <tentinh>Bình Phước</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>13</matinh>
+    <tentinh>Bình Thuận</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>14</matinh>
+    <tentinh>Cao Bằng</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>15</matinh>
+    <tentinh>Cà Mau</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>16</matinh>
+    <tentinh>phố Cần Thơ</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>17</matinh>
+    <tentinh>phố Hải Phòng</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>18</matinh>
+    <tentinh>phố Đà Nẵng</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>19</matinh>
+    <tentinh>Gia Lai</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>20</matinh>
+    <tentinh>Hòa Bình</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>21</matinh>
+    <tentinh>Hà Giang</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>22</matinh>
+    <tentinh>Hà Nam</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>23</matinh>
+    <tentinh>Hà Tĩnh</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>24</matinh>
+    <tentinh>Hưng Yên</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>25</matinh>
+    <tentinh>Hải Dương</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>26</matinh>
+    <tentinh>Hậu Giang</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>27</matinh>
+    <tentinh>Điện Biên</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>28</matinh>
+    <tentinh>Đắk Lắk</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>29</matinh>
+    <tentinh>Đắk Nông</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>30</matinh>
+    <tentinh>Đồng Nai</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>31</matinh>
+    <tentinh>Đồng Tháp</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>32</matinh>
+    <tentinh>Khánh Hòa</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>33</matinh>
+    <tentinh>Kiên Giang</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>34</matinh>
+    <tentinh>Kon Tum</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>35</matinh>
+    <tentinh>Lai Châu</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>36</matinh>
+    <tentinh>Long An</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>37</matinh>
+    <tentinh>Lào Cai</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>38</matinh>
+    <tentinh>Lâm Đồng</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>39</matinh>
+    <tentinh>Lạng Sơn</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>40</matinh>
+    <tentinh>Nam Định</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>41</matinh>
+    <tentinh>Nghệ An</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>42</matinh>
+    <tentinh>Ninh Bình</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>43</matinh>
+    <tentinh>Ninh Thuận</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>44</matinh>
+    <tentinh>Phú Thọ</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>45</matinh>
+    <tentinh>Phú Yên</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>46</matinh>
+    <tentinh>Quảng Bình</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>47</matinh>
+    <tentinh>Quảng Nam</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>48</matinh>
+    <tentinh>Quảng Ngãi</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>49</matinh>
+    <tentinh>Quảng Ninh</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>50</matinh>
+    <tentinh>Quảng Trị</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>51</matinh>
+    <tentinh>Sóc Trăng</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>52</matinh>
+    <tentinh>Sơn La</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>53</matinh>
+    <tentinh>Thanh Hóa</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>54</matinh>
+    <tentinh>Thái Bình</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>55</matinh>
+    <tentinh>Thái Nguyên</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>56</matinh>
+    <tentinh>Thừa Thiên - Huế</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>57</matinh>
+    <tentinh>Tiền Giang</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>58</matinh>
+    <tentinh>Trà Vinh</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>59</matinh>
+    <tentinh>Tuyên Quang</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>60</matinh>
+    <tentinh>Tây Ninh</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>61</matinh>
+    <tentinh>Vĩnh Long</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>62</matinh>
+    <tentinh>Vĩnh Phúc</tentinh>
+  </quequan>
+  <quequan>
+    <matinh>63</matinh>
+    <tentinh>Yên Bái</tentinh>
+  </quequan>
+</danhsach>

@@ -1,0 +1,63 @@
+Hà Nội; 1
+Hồ Chí Minh; 2
+An Giang; 3
+Bà Rịa - Vũng Tàu; 4
+Bạc Liêu; 5
+Bắc Giang; 6
+Bắc Kạn; 7
+Bắc Ninh; 8
+Bến Tre; 9
+Bình Dương; 10
+Bình Định; 11
+Bình Phước; 12
+Bình Thuận; 13
+Cao Bằng; 14
+Cà Mau; 15
+phố Cần Thơ; 16
+phố Hải Phòng; 17
+phố Đà Nẵng; 18
+Gia Lai; 19
+Hòa Bình; 20
+Hà Giang; 21
+Hà Nam; 22
+Hà Tĩnh; 23
+Hưng Yên; 24
+Hải Dương; 25
+Hậu Giang; 26
+Điện Biên; 27
+Đắk Lắk; 28
+Đắk Nông; 29
+Đồng Nai; 30
+Đồng Tháp; 31
+Khánh Hòa; 32
+Kiên Giang; 33
+Kon Tum; 34
+Lai Châu; 35
+Long An; 36
+Lào Cai; 37
+Lâm Đồng; 38
+Lạng Sơn; 39
+Nam Định; 40
+Nghệ An; 41
+Ninh Bình; 42
+Ninh Thuận; 43
+Phú Thọ; 44
+Phú Yên; 45
+Quảng Bình; 46
+Quảng Nam; 47
+Quảng Ngãi; 48
+Quảng Ninh; 49
+Quảng Trị; 50
+Sóc Trăng; 51
+Sơn La; 52
+Thanh Hóa; 53
+Thái Bình; 54
+Thái Nguyên; 55
+Thừa Thiên - Huế; 56
+Tiền Giang; 57
+Trà Vinh; 58
+Tuyên Quang; 59
+Tây Ninh; 60
+Vĩnh Long; 61
+Vĩnh Phúc; 62
+Yên Bái; 63
